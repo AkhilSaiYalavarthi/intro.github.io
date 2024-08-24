@@ -1,4 +1,3 @@
-# AkhilSaiYalavarthi.github.io
 # Basic intro - 
 # University : University of north texas
 # Program : Graduate
